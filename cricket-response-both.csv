@@ -1,0 +1,59 @@
+﻿individual,treatment,response,exposure
+2f,naive,consume,first
+5m,naive,no subjugate,first
+8f,naive,consume,first
+12m,naive,consume,first
+18f,naive,consume,first
+21f,naive,consume,first
+28m,naive,consume,first
+38f,naive,consume,first
+42f,naive,consume,first
+66m,naive,consume,first
+70m,naive,consume,first
+73m,naive,consume,first
+62am,naive,consume,first
+15m,naive,consume,first
+34m,naive,consume,first
+18a,familiar,no approach,first
+23j,familiar,consume,first
+26a,familiar,consume,first
+32j,familiar,consume,first
+35a,familiar,consume,first
+38a,familiar,consume,first
+47J,familiar,consume,first
+50a,familiar,consume,first
+53a,familiar,no consume,first
+62j,familiar,consume,first
+74a,familiar,consume,first
+14j,familiar,consume,first
+64a,familiar,consume,first
+29j,familiar,consume,first
+2f,naive,consume,second
+5m,naive,consume,second
+8f,naive,consume,second
+12m,naive,consume,second
+18f,naive,consume,second
+21f,naive,consume,second
+28m,naive,no approach,second
+38f,naive,consume,second
+42f,naive,consume,second
+66m,naive,consume,second
+70m,naive,consume,second
+73m,naive,consume,second
+62am,naive,consume,second
+15m,naive,NA,second
+34m,naive,consume,second
+18a,familiar,consume,second
+23j,familiar,consume,second
+26a,familiar,consume,second
+32j,familiar,consume,second
+35a,familiar,consume,second
+38a,familiar,consume,second
+47J,familiar,consume,second
+50a,familiar,consume,second
+53a,familiar,no consume,second
+62j,familiar,no approach,second
+74a,familiar,consume,second
+14j,familiar,NA,second
+64a,familiar,NA,second
+29j,familiar,NA,second

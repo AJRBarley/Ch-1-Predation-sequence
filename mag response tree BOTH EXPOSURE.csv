@@ -1,0 +1,109 @@
+individual,treatment,response,exposure
+14n,naive,no consume,first
+17n,naive,no consume,first
+19n,naive,consume,first
+1n,naive,no consume,first
+20n,naive,consume,first
+25n,naive,no consume,first
+26n,naive,no consume,first
+27n,naive,no consume,first
+30n,naive,no consume,first
+33n,naive,no consume,first
+36n,naive,no consume,first
+40n,naive,no subjugate,first
+44n,naive,no approach,first
+45n,naive,no consume,first
+4n,naive,no consume,first
+54n,naive,no consume,first
+58n,naive,consume,first
+60bn,naive,no consume,first
+61an,naive,no approach,first
+61bn,naive,no consume,first
+64n,naive,no consume,first
+65n,naive,no subjugate,first
+67n,naive,no consume,first
+68n,naive,no approach,first
+69n,naive,no consume,first
+71n,naive,no consume,first
+72n,naive,no consume,first
+75n,naive,consume,first
+7n,naive,no consume,first
+12t,familiar,consume,first
+15t,familiar,no consume,first
+17t,familiar,no consume,first
+21t,familiar,consume,first
+24t,familiar,consume,first
+27t,familiar,no consume,first
+30t,familiar,no consume,first
+33t,familiar,no consume,first
+36t,familiar,consume,first
+39t,familiar,no consume,first
+3t,familiar,no consume,first
+45t,familiar,no consume,first
+51t,familiar,no consume,first
+56t,familiar,consume,first
+59t,familiar,no consume,first
+60t,familiar,no consume,first
+61at,familiar,no subjugate,first
+63t,familiar,no consume,first
+67t,familiar,consume,first
+6t,familiar,consume,first
+70at,familiar,no subjugate,first
+70bt,familiar,consume,first
+75t,familiar,consume,first
+77t,familiar,consume,first
+9t,familiar,consume,first
+14n,naive,no consume,second
+17n,naive,no consume,second
+19n,naive,no consume,second
+1n,naive,no consume,second
+20n,naive,no approach,second
+25n,naive,NA,second
+26n,naive,NA,second
+27n,naive,no subjugate,second
+30n,naive,no subjugate,second
+33n,naive,NA,second
+36n,naive,no approach,second
+40n,naive,no approach,second
+44n,naive,no approach,second
+45n,naive,no approach,second
+4n,naive,no consume,second
+54n,naive,no approach,second
+58n,naive,NA,second
+60bn,naive,no approach,second
+61an,naive,no approach,second
+61bn,naive,consume,second
+64n,naive,no subjugate,second
+65n,naive,no approach,second
+67n,naive,no subjugate,second
+68n,naive,no approach,second
+69n,naive,no subjugate,second
+71n,naive,NA,second
+72n,naive,no consume,second
+75n,naive,NA,second
+7n,naive,no approach,second
+12t,familiar,NA,second
+15t,familiar,NA,second
+17t,familiar,consume,second
+21t,familiar,consume,second
+24t,familiar,consume,second
+27t,familiar,no approach,second
+30t,familiar,NA,second
+33t,familiar,no consume,second
+36t,familiar,no consume,second
+39t,familiar,no consume,second
+3t,familiar,NA,second
+45t,familiar,no consume,second
+51t,familiar,no consume,second
+56t,familiar,no consume,second
+59t,familiar,NA,second
+60t,familiar,consume,second
+61at,familiar,NA,second
+63t,familiar,no consume,second
+67t,familiar,consume,second
+6t,familiar,no approach,second
+70at,familiar,no approach,second
+70bt,familiar,no consume,second
+75t,familiar,NA,second
+77t,familiar,NA,second
+9t,familiar,no approach,second

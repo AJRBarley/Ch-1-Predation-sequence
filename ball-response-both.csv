@@ -1,0 +1,70 @@
+﻿individual,treatment,response,exposure
+3f,naive,no approach,first
+6f,naive,no approach,first
+19f,naive,no subjugate,first
+25m,naive,no approach,first
+29f,naive,no approach,first
+32m,naive,no approach,first
+39f,naive,no approach,first
+55m,naive,no approach,first
+63m,naive,no approach,first
+74u,naive,no approach,first
+13f,naive,no approach,first
+16f,naive,no approach,first
+22m,naive,no subjugate,first
+35f,naive,no approach,first
+46u,naive,no consume,first
+19a,familiar,no subjugate,first
+25a,familiar,no consume,first
+28a,familiar,no approach,first
+34j,familiar,no approach,first
+40a,familiar,no approach,first
+54j,familiar,no approach,first
+65a,familiar,no approach,first
+68a,familiar,no approach,first
+72a,familiar,no approach,first
+76a,familiar,no approach,first
+22a,familiar,no approach,first
+43j,familiar,no consume,first
+4j,familiar,no approach,first
+13a,familiar,no approach,first
+31j,familiar,no approach,first
+66j,familiar,no approach,first
+78a,familiar,no approach,first
+37j,familiar,no approach,first
+1a,familiar,no approach,first
+10a,familiar,no approach,first
+3f,naive,no approach,second
+6f,naive,no approach,second
+19f,naive,no approach,second
+25m,naive,no approach,second
+29f,naive,no approach,second
+32m,naive,no approach,second
+39f,naive,no approach,second
+55m,naive,no approach,second
+63m,naive,no approach,second
+74u,naive,NA,second
+13f,naive,NA,second
+16f,naive,NA,second
+22m,naive,NA,second
+35f,naive,NA,second
+46u,naive,NA,second
+19a,familiar,no approach,second
+28a,familiar,no approach,second
+34j,familiar,no approach,second
+40a,familiar,no approach,second
+54j,familiar,no consume,second
+65a,familiar,no approach,second
+68a,familiar,no approach,second
+72a,familiar,no approach,second
+76a,familiar,no approach,second
+22a,familiar,no approach,second
+43j,familiar,no subjugate,second
+37j,familiar,no approach,second
+1a,familiar,no approach,second
+13a,familiar,NA,second
+31j,familiar,NA,second
+66j,familiar,NA,second
+78a,familiar,NA,second
+37j,familiar,NA,second
+10a,familiar,NA,second
